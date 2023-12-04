@@ -2,3 +2,7 @@
 .out
 .synctex
 .toc
+.bib
+.log
+.out
+.gz
