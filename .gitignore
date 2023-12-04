@@ -1,8 +1,8 @@
-.aux
-.out
-.synctex
-.toc
-.bib
-.log
-.out
-.gz
+*.aux
+*.out
+*.synctex
+*.toc
+*.bib
+*.log
+*.out
+*.gz
